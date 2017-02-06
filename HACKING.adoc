@@ -38,7 +38,7 @@ make runtop
 make tests
 ----
 
-5. Install in a new opam switch to try things out:
+5. Install in a new opam switch to try things out (using https://github.com/gasche/opam-compiler-conf[opam-compiler-conf]):
 +
 ----
 opam compiler-conf install
